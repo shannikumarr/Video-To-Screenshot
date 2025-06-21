@@ -37,13 +37,12 @@ Follow these steps to set up and run the application locally.
    cd Video-To-Screenshot
 ### Install dependencies
    ```bash
+     pip install -r requirements.txt
 
-pip install -r requirements.txt
-
-### Run the Flask App
+## Run the Flask App
 
 python app.py
 
-### Then open your browser and navigate to
+## Then open your browser and navigate to
    ```bash
 🌐 http://127.0.0.1:5000
