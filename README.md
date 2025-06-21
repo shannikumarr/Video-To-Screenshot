@@ -7,7 +7,6 @@ This is a simple Python Flask application that allows users to:
 ✅ Choose a time interval (in seconds)  
 ✅ Extract screenshots at the chosen interval  
 ✅ View and download the screenshots  
-✅ Automatically delete files after 1 hour (via script)
 
 ---
 
@@ -17,7 +16,6 @@ This is a simple Python Flask application that allows users to:
 - Set screenshot interval (e.g., every 3 seconds)
 - Display all screenshots directly on the page
 - Download screenshots individually
-- Automatically deletes old files with `cleanup_files.py`
 - Clean and responsive user interface
 
 ---
@@ -32,14 +30,11 @@ cd video-to-screenshots
 
 
 2. Install dependencies
-bash
-Copy
-Edit
 pip install -r requirements.txt
-3. Run the Flask app
-bash
-Copy
-Edit
+
+
+4. Run the Flask app
+
 python app.py
 Now open your browser and go to:
 http://localhost:5000
