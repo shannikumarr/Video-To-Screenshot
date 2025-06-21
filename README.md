@@ -1,4 +1,3 @@
-# Video-To-Screenshot
 # 🎥 Video to Screenshots - Flask App
 
 This is a simple Python Flask application that allows users to:
@@ -24,8 +23,7 @@ This is a simple Python Flask application that allows users to:
 
 ### 1. Clone the repository
 
-git clone https://github.com/yourusername/video-to-screenshots.git
-cd video-to-screenshots
+git clone https://github.com/shannikumarr/Video-To-Screenshot
 
 
 
