@@ -35,17 +35,15 @@ Follow these steps to set up and run the application locally.
    ```bash
    git clone https://github.com/shannikumarr/Video-To-Screenshot.git
    cd Video-To-Screenshot
+### Install dependencies
+   ```bash
 
-2. *Install dependencies*
-
-```bash
 pip install -r requirements.txt
 
-3. *Run the Flask App*
+### Run the Flask App
 
-```bash
 python app.py
 
-4. *Then open your browser and navigate to*
-
-*🌐 http://127.0.0.1:5000*
+### Then open your browser and navigate to
+   ```bash
+🌐 http://127.0.0.1:5000
