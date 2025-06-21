@@ -29,14 +29,17 @@ cd video-to-screenshots
 
 
 
-2. Install dependencies
+### 2. Install dependencies
 pip install -r requirements.txt
 
 
-4. Run the Flask app
+### 3. Run the Flask app
 
 python app.py
-Now open your browser and go to:
+
+### 4. Now open your browser and go to:
+
 http://localhost:5000
+http://127.0.0.1:5000
 
 
