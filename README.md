@@ -19,24 +19,30 @@ This is a simple Python Flask application that allows users to:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
-### 1. Clone the repository
+Follow these steps to set up and run the application locally.
 
-git clone https://github.com/shannikumarr/Video-To-Screenshot
+### Prerequisites
 
+- Python 3.6 or higher installed
+- Git installed
 
+### Installation
 
-### 2. Install dependencies
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/shannikumarr/Video-To-Screenshot.git
+   cd Video-To-Screenshot
+
+### Install dependencies
+
+```bash
 pip install -r requirements.txt
 
-
-### 3. Run the Flask app
-
+### 🚀 Run the Flask app:
 python app.py
 
-### 4. Now open your browser and go to:
-
-http://127.0.0.1:5000
-
-
+### Then open your browser and navigate to:
+🌐 http://127.0.0.1:5000
