@@ -41,9 +41,13 @@ Follow these steps to set up and run the application locally.
 ```bash
 pip install -r requirements.txt
 
-### 🚀 Run the Flask app:
+## 🚀 Run the Flask App
+
+Run the Flask application using the following command:
+
 ```bash
 python app.py
 
 ### Then open your browser and navigate to:
+
 **🌐 http://127.0.0.1:5000**
